@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    width: 100%;
+    min-height: 100%;
+    
+
+}
+
+body{
+    background-image: url(img/ricardo-gomez-angel-Jt4ABNbETW4-unsplash.jpg);
+    background-size: cover;
+}
+
+img{
+    border-radius: 50%;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 10%;
+    padding: 5%;
+}
+.first_image{
+    background-color:aquamarine;
+    width: 50%;
+    margin:auto;
+}
+
+.grid_container{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    background-color: aqua;
+    display: grid;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+h2{
+    font-family: cursive;
+    color: white;
+    padding: 2%;
+}
+
+h3{
+    font-family: cursive;
+}
+
+p{
+    color: white;
+    font-family: cursive;
+    margin-bottom: 2%;
+}
+
+i{  
+    margin-bottom: 2%;
+    
+}
+
+.grid_body{
+    background-color:rgb(44, 41, 41);
+    display: grid;
+
+
+}
+.grid_body a{
+    margin: 2%;
+    padding: 3%;
+    color:grey;
+    font-family: cursive;
+    text-decoration-line: none;
+}
+
+.grid_body h2{
+    margin: 10%;
+}
+
+.para_graph{
+    text-align: left;
+    padding-left: 2%;
+}
+
+.nodesign{
+    list-style: none;
+    color:grey;
+    font-family: cursive;
+}
+
+li{
+    list-style: none;
+    
+}
+
